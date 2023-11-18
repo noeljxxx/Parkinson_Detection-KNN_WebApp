@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Parkinson Detection using KNN Web Application",
     "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
+        "build": "npm run compile",
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
     },
